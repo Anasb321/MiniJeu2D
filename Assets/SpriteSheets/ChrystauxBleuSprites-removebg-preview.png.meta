@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 3aaf1b287922dd5419a7c95095800d85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3738971955338363182
+    second: ChrystauxBleuSprites-removebg-preview_0
+  - first:
+      213: -3585608768674107381
+    second: ChrystauxBleuSprites-removebg-preview_1
+  - first:
+      213: 7894820714699577128
+    second: ChrystauxBleuSprites-removebg-preview_2
+  - first:
+      213: -1937405525515687252
+    second: ChrystauxBleuSprites-removebg-preview_3
+  - first:
+      213: -1740513110668315102
+    second: ChrystauxBleuSprites-removebg-preview_4
+  - first:
+      213: -368629795497869721
+    second: ChrystauxBleuSprites-removebg-preview_5
+  - first:
+      213: -610591326325243952
+    second: ChrystauxBleuSprites-removebg-preview_6
+  - first:
+      213: -7438119610076465471
+    second: ChrystauxBleuSprites-removebg-preview_7
+  - first:
+      213: 5559212797312319484
+    second: ChrystauxBleuSprites-removebg-preview_8
+  - first:
+      213: -1325334656444093577
+    second: ChrystauxBleuSprites-removebg-preview_9
+  - first:
+      213: -6046256711207871057
+    second: ChrystauxBleuSprites-removebg-preview_10
+  - first:
+      213: -3749639376138085032
+    second: ChrystauxBleuSprites-removebg-preview_11
+  - first:
+      213: -4095967550937155932
+    second: ChrystauxBleuSprites-removebg-preview_12
+  - first:
+      213: -6376990396305224800
+    second: ChrystauxBleuSprites-removebg-preview_13
+  - first:
+      213: 3633725631359408508
+    second: ChrystauxBleuSprites-removebg-preview_14
+  - first:
+      213: 1359904707226200416
+    second: ChrystauxBleuSprites-removebg-preview_15
+  - first:
+      213: 2958246215590632166
+    second: ChrystauxBleuSprites-removebg-preview_16
+  - first:
+      213: 2448505816416372305
+    second: ChrystauxBleuSprites-removebg-preview_17
+  - first:
+      213: -7638551898249406427
+    second: ChrystauxBleuSprites-removebg-preview_18
+  - first:
+      213: -2824419350856194092
+    second: ChrystauxBleuSprites-removebg-preview_19
+  - first:
+      213: 4489146060336781292
+    second: ChrystauxBleuSprites-removebg-preview_20
+  - first:
+      213: 923941308423115376
+    second: ChrystauxBleuSprites-removebg-preview_21
+  - first:
+      213: -6866444959112712038
+    second: ChrystauxBleuSprites-removebg-preview_22
+  - first:
+      213: 4528869761607178352
+    second: ChrystauxBleuSprites-removebg-preview_23
+  - first:
+      213: -7398497883274416562
+    second: ChrystauxBleuSprites-removebg-preview_24
+  - first:
+      213: 9027820603747025758
+    second: ChrystauxBleuSprites-removebg-preview_25
+  - first:
+      213: 9065902875159178195
+    second: ChrystauxBleuSprites-removebg-preview_26
+  - first:
+      213: 3933427447786915959
+    second: ChrystauxBleuSprites-removebg-preview_27
+  - first:
+      213: -4804451323199900922
+    second: ChrystauxBleuSprites-removebg-preview_28
+  - first:
+      213: -4334570217136813890
+    second: ChrystauxBleuSprites-removebg-preview_29
+  - first:
+      213: -3015584224881693983
+    second: ChrystauxBleuSprites-removebg-preview_30
+  - first:
+      213: 3233773999848517174
+    second: ChrystauxBleuSprites-removebg-preview_31
+  - first:
+      213: -7972868545482777076
+    second: ChrystauxBleuSprites-removebg-preview_32
+  - first:
+      213: -34141377463907202
+    second: ChrystauxBleuSprites-removebg-preview_33
+  - first:
+      213: -6168516599558948594
+    second: ChrystauxBleuSprites-removebg-preview_34
+  - first:
+      213: 7427742279751680500
+    second: ChrystauxBleuSprites-removebg-preview_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrystauxBleuSprites-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 106
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e214717fe2f73e330800000000000000
+      internalID: 3738971955338363182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrystauxBleuSprites-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 29
+        width: 153
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0077af72db5d3ec0800000000000000
+      internalID: -3585608768674107381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrystauxBleuSprites-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 28
+        width: 173
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82750198c99009d60800000000000000
+      internalID: 7894820714699577128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrystauxBleuSprites-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 21
+        width: 177
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa22c970f3fc15e0800000000000000
+      internalID: -1937405525515687252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 668709066efa3e64c8dd01f247286f63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":246.0,"y":253.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ChrystauxBleuSprites-removebg-preview_0: 3738971955338363182
+      ChrystauxBleuSprites-removebg-preview_1: -3585608768674107381
+      ChrystauxBleuSprites-removebg-preview_2: 7894820714699577128
+      ChrystauxBleuSprites-removebg-preview_3: -1937405525515687252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
