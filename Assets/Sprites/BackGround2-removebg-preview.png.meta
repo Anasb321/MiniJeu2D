@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: f9bd39e833ff1164d9950607352734ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3975456578612051823
+    second: BackGround2-removebg-preview_0
+  - first:
+      213: 4250868474921531388
+    second: BackGround2-removebg-preview_1
+  - first:
+      213: 1125077386751658947
+    second: BackGround2-removebg-preview_2
+  - first:
+      213: 3817613110640319991
+    second: BackGround2-removebg-preview_3
+  - first:
+      213: 6741760112852022921
+    second: BackGround2-removebg-preview_4
+  - first:
+      213: 6913176705253166000
+    second: BackGround2-removebg-preview_5
+  - first:
+      213: 3612288172017470496
+    second: BackGround2-removebg-preview_6
+  - first:
+      213: 8396901147725189943
+    second: BackGround2-removebg-preview_7
+  - first:
+      213: -2820562748890549367
+    second: BackGround2-removebg-preview_8
+  - first:
+      213: -8507803508319494446
+    second: BackGround2-removebg-preview_9
+  - first:
+      213: 3121971282895214841
+    second: BackGround2-removebg-preview_10
+  - first:
+      213: 2025008405388651831
+    second: BackGround2-removebg-preview_11
+  - first:
+      213: -2952814161578695237
+    second: BackGround2-removebg-preview_12
+  - first:
+      213: -7343205728615055183
+    second: BackGround2-removebg-preview_13
+  - first:
+      213: 5513971368027495209
+    second: BackGround2-removebg-preview_14
+  - first:
+      213: -905974694958210252
+    second: BackGround2-removebg-preview_15
+  - first:
+      213: -1417741778484309470
+    second: BackGround2-removebg-preview_16
+  - first:
+      213: -8222798966232788253
+    second: BackGround2-removebg-preview_17
+  - first:
+      213: 6996760722944177596
+    second: BackGround2-removebg-preview_18
+  - first:
+      213: 4359375318655138979
+    second: BackGround2-removebg-preview_19
+  - first:
+      213: -3216073566979783750
+    second: BackGround2-removebg-preview_20
+  - first:
+      213: -2048781617103682447
+    second: BackGround2-removebg-preview_21
+  - first:
+      213: -4061968645387149096
+    second: BackGround2-removebg-preview_22
+  - first:
+      213: -6485784685307516312
+    second: BackGround2-removebg-preview_23
+  - first:
+      213: -5927950915354153249
+    second: BackGround2-removebg-preview_24
+  - first:
+      213: -2252671229010441796
+    second: BackGround2-removebg-preview_25
+  - first:
+      213: -4667687835454120314
+    second: BackGround2-removebg-preview_26
+  - first:
+      213: 7151492832955118173
+    second: BackGround2-removebg-preview_27
+  - first:
+      213: -3463195014335101512
+    second: BackGround2-removebg-preview_28
+  - first:
+      213: -8144054548256002231
+    second: BackGround2-removebg-preview_29
+  - first:
+      213: -6371010509172302478
+    second: BackGround2-removebg-preview_30
+  - first:
+      213: -8160265519753697422
+    second: BackGround2-removebg-preview_31
+  - first:
+      213: 3613379497063301473
+    second: BackGround2-removebg-preview_32
+  - first:
+      213: 66463752144225536
+    second: BackGround2-removebg-preview_33
+  - first:
+      213: 3470980539018118765
+    second: BackGround2-removebg-preview_34
+  - first:
+      213: 5646580882825150050
+    second: BackGround2-removebg-preview_35
+  - first:
+      213: 3939054629840880885
+    second: BackGround2-removebg-preview_36
+  - first:
+      213: -5185838448247368690
+    second: BackGround2-removebg-preview_37
+  - first:
+      213: -1654974540806116553
+    second: BackGround2-removebg-preview_38
+  - first:
+      213: 4357424945430709466
+    second: BackGround2-removebg-preview_39
+  - first:
+      213: -1318694504597443089
+    second: BackGround2-removebg-preview_40
+  - first:
+      213: -5169912949968989310
+    second: BackGround2-removebg-preview_41
+  - first:
+      213: 4606220959688547948
+    second: BackGround2-removebg-preview_42
+  - first:
+      213: -2072224499127224385
+    second: BackGround2-removebg-preview_43
+  - first:
+      213: 5177050484144723555
+    second: BackGround2-removebg-preview_44
+  - first:
+      213: -8503970938839684416
+    second: BackGround2-removebg-preview_45
+  - first:
+      213: 276624125635995856
+    second: BackGround2-removebg-preview_46
+  - first:
+      213: -7042362509176789994
+    second: BackGround2-removebg-preview_47
+  - first:
+      213: -6845859494846530851
+    second: BackGround2-removebg-preview_48
+  - first:
+      213: 3130772382992725827
+    second: BackGround2-removebg-preview_49
+  - first:
+      213: -2605153428697835302
+    second: BackGround2-removebg-preview_50
+  - first:
+      213: -8984391300641032174
+    second: BackGround2-removebg-preview_51
+  - first:
+      213: -4792047059033692473
+    second: BackGround2-removebg-preview_52
+  - first:
+      213: -8815458498264414815
+    second: BackGround2-removebg-preview_53
+  - first:
+      213: 2978272864926565065
+    second: BackGround2-removebg-preview_54
+  - first:
+      213: 5517545545263153916
+    second: BackGround2-removebg-preview_55
+  - first:
+      213: 7912417670844937331
+    second: BackGround2-removebg-preview_56
+  - first:
+      213: 1665928954575664144
+    second: BackGround2-removebg-preview_57
+  - first:
+      213: 2787585305144818292
+    second: BackGround2-removebg-preview_58
+  - first:
+      213: 6110629799371673555
+    second: BackGround2-removebg-preview_59
+  - first:
+      213: 4049963692321014975
+    second: BackGround2-removebg-preview_60
+  - first:
+      213: 6631245595899269135
+    second: BackGround2-removebg-preview_61
+  - first:
+      213: 612441474495656093
+    second: BackGround2-removebg-preview_62
+  - first:
+      213: -8022554683475285566
+    second: BackGround2-removebg-preview_63
+  - first:
+      213: -6986583513063143348
+    second: BackGround2-removebg-preview_64
+  - first:
+      213: 3403286254528705147
+    second: BackGround2-removebg-preview_65
+  - first:
+      213: -204733279612269657
+    second: BackGround2-removebg-preview_66
+  - first:
+      213: 2848297113120773349
+    second: BackGround2-removebg-preview_67
+  - first:
+      213: 517591722837328444
+    second: BackGround2-removebg-preview_68
+  - first:
+      213: 9126197692812485618
+    second: BackGround2-removebg-preview_69
+  - first:
+      213: -1903711943179106356
+    second: BackGround2-removebg-preview_70
+  - first:
+      213: 1158024337971871973
+    second: BackGround2-removebg-preview_71
+  - first:
+      213: -4664878372513621802
+    second: BackGround2-removebg-preview_72
+  - first:
+      213: 5112954728765434445
+    second: BackGround2-removebg-preview_73
+  - first:
+      213: 8889532692057057485
+    second: BackGround2-removebg-preview_74
+  - first:
+      213: -3460806395432760713
+    second: BackGround2-removebg-preview_75
+  - first:
+      213: -2582926636881820010
+    second: BackGround2-removebg-preview_76
+  - first:
+      213: 7103776590695366913
+    second: BackGround2-removebg-preview_77
+  - first:
+      213: 556569052462822977
+    second: BackGround2-removebg-preview_78
+  - first:
+      213: -4812310376928912242
+    second: BackGround2-removebg-preview_79
+  - first:
+      213: 8417937790709629488
+    second: BackGround2-removebg-preview_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f392402b8ab2730800000000000000
+      internalID: 3975456578612051823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 175
+        width: 303
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ba9a1b5e1efa30800000000000000
+      internalID: 4250868474921531388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 248
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb482e1ce31d9f00800000000000000
+      internalID: 1125077386751658947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 287
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1795c5e2eaf430800000000000000
+      internalID: 3817613110640319991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 298
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986317f6a1b8f8d50800000000000000
+      internalID: 6741760112852022921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 193
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbce1af59980ff50800000000000000
+      internalID: 6913176705253166000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 182
+        width: 218
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c427724fc612230800000000000000
+      internalID: 3612288172017470496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 267
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733da3cea19c78470800000000000000
+      internalID: 8396901147725189943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 278
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983fda5bf195bd8d0800000000000000
+      internalID: -2820562748890549367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 229
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de5bc319c53ee980800000000000000
+      internalID: -8507803508319494446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 213
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f890f34758735b20800000000000000
+      internalID: 3121971282895214841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 210
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dee5e6a664a1c10800000000000000
+      internalID: 2025008405388651831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 177
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5eb5b2a2f7507d0800000000000000
+      internalID: -2952814161578695237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 197
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04949bb41b71a90800000000000000
+      internalID: -7343205728615055183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 206
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b14f4bebf858c40800000000000000
+      internalID: 5513971368027495209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 187
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e583a0d45d63f0800000000000000
+      internalID: -905974694958210252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222563e2d5b235ce0800000000000000
+      internalID: -1417741778484309470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 180
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2de3e08efb2ed80800000000000000
+      internalID: -8222798966232788253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53e7d9ecc791160800000000000000
+      internalID: 6996760722944177596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 106
+        width: 114
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac7b0f51cc9f7c30800000000000000
+      internalID: 4359375318655138979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 97
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab385ac51263e53d0800000000000000
+      internalID: -3216073566979783750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 134
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744f2269f34193e0800000000000000
+      internalID: -2048781617103682447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 152
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0aceac90df0a7c0800000000000000
+      internalID: -4061968645387149096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 103
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa39e113dddf5a0800000000000000
+      internalID: -6485784685307516312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 100
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2d54dc00bbbda0800000000000000
+      internalID: -5927950915354153249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 134
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9071fc377ecb0e0800000000000000
+      internalID: -2252671229010441796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 123
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5855e4aa093fb0800000000000000
+      internalID: -4667687835454120314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ba0267d43f3360800000000000000
+      internalID: 7151492832955118173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 105
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b507a6bb7240ffc0800000000000000
+      internalID: -3463195014335101512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94febc399818afe80800000000000000
+      internalID: -8144054548256002231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d118c62bf9597a0800000000000000
+      internalID: -6371010509172302478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 99
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2776636aeb9e0ce80800000000000000
+      internalID: -8160265519753697422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 109
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614321128d452230800000000000000
+      internalID: 3613379497063301473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0050ff03e602ce000800000000000000
+      internalID: 66463752144225536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66087209666b2030800000000000000
+      internalID: 3470980539018118765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 89
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efd44656fac5e40800000000000000
+      internalID: 5646580882825150050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4068ad0555aa630800000000000000
+      internalID: 3939054629840880885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0417a538633808b0800000000000000
+      internalID: -5185838448247368690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bafee6c695809e0800000000000000
+      internalID: -1654974540806116553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c2d7b6eea87c30800000000000000
+      internalID: 4357424945430709466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 67
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda536b55e03bde0800000000000000
+      internalID: -1318694504597443089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28318693097c048b0800000000000000
+      internalID: -5169912949968989310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed13bde859cef30800000000000000
+      internalID: 4606220959688547948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 70
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7f8a21ccafd33e0800000000000000
+      internalID: -2072224499127224385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 20
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366d5b37cf398d740800000000000000
+      internalID: 5177050484144723555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2732bc73dbf980800000000000000
+      internalID: -8503970938839684416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 57
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d826d83d24c6d300800000000000000
+      internalID: 276624125635995856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 60
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6142df42c90844e90800000000000000
+      internalID: -7042362509176789994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 45
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaff637f0f9ef0a0800000000000000
+      internalID: -6845859494846530851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 67
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34772e015ecb27b20800000000000000
+      internalID: 3130772382992725827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 68
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8131162c2a8dbd0800000000000000
+      internalID: -2605153428697835302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187e22a6b7015380800000000000000
+      internalID: -8984391300641032174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 57
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66753d69a3f7db0800000000000000
+      internalID: -4792047059033692473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 62
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a540ceb33339a580800000000000000
+      internalID: -8815458498264414815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 46
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2022e1463f45920800000000000000
+      internalID: 2978272864926565065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 16
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf20371b072429c40800000000000000
+      internalID: 5517545545263153916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3747c3923fd8ecd60800000000000000
+      internalID: 7912417670844937331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0143586ce819e1710800000000000000
+      internalID: 1665928954575664144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7146d01e7fa620800000000000000
+      internalID: 2787585305144818292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 48
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df07715d615dc450800000000000000
+      internalID: 6110629799371673555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 38
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb40602458c543830800000000000000
+      internalID: 4049963692321014975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0013f15cbae60c50800000000000000
+      internalID: 6631245595899269135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 47
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b705b644df7800800000000000000
+      internalID: 612441474495656093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 27
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c92f4c45092aa090800000000000000
+      internalID: -8022554683475285566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 49
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484546bf4baa0f90800000000000000
+      internalID: -6986583513063143348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72372e21d6ea3f20800000000000000
+      internalID: 3403286254528705147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab820bba24a82df0800000000000000
+      internalID: -204733279612269657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4955a222f278720800000000000000
+      internalID: 2848297113120773349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c66afdeade2700800000000000000
+      internalID: 517591722837328444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e31ee274c6ae70800000000000000
+      internalID: 9126197692812485618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc70420f218a495e0800000000000000
+      internalID: -1903711943179106356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0021afff0221010800000000000000
+      internalID: 1158024337971871973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 15
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85ce5f5d5034fb0800000000000000
+      internalID: -4664878372513621802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aa7b87c3dd4f640800000000000000
+      internalID: 5112954728765434445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 18
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8684972e6fd5b70800000000000000
+      internalID: 8889532692057057485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a84d36beeb8ffc0800000000000000
+      internalID: -3460806395432760713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 13
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696c3cf98e9972cd0800000000000000
+      internalID: -2582926636881820010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101022cfb2fa59260800000000000000
+      internalID: 7103776590695366913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146b509ba9459b700800000000000000
+      internalID: 556569052462822977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd93a753d373db0800000000000000
+      internalID: -4812310376928912242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround2-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032859c02d582d470800000000000000
+      internalID: 8417937790709629488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BackGround2-removebg-preview_0: 3975456578612051823
+      BackGround2-removebg-preview_1: 4250868474921531388
+      BackGround2-removebg-preview_10: 3121971282895214841
+      BackGround2-removebg-preview_11: 2025008405388651831
+      BackGround2-removebg-preview_12: -2952814161578695237
+      BackGround2-removebg-preview_13: -7343205728615055183
+      BackGround2-removebg-preview_14: 5513971368027495209
+      BackGround2-removebg-preview_15: -905974694958210252
+      BackGround2-removebg-preview_16: -1417741778484309470
+      BackGround2-removebg-preview_17: -8222798966232788253
+      BackGround2-removebg-preview_18: 6996760722944177596
+      BackGround2-removebg-preview_19: 4359375318655138979
+      BackGround2-removebg-preview_2: 1125077386751658947
+      BackGround2-removebg-preview_20: -3216073566979783750
+      BackGround2-removebg-preview_21: -2048781617103682447
+      BackGround2-removebg-preview_22: -4061968645387149096
+      BackGround2-removebg-preview_23: -6485784685307516312
+      BackGround2-removebg-preview_24: -5927950915354153249
+      BackGround2-removebg-preview_25: -2252671229010441796
+      BackGround2-removebg-preview_26: -4667687835454120314
+      BackGround2-removebg-preview_27: 7151492832955118173
+      BackGround2-removebg-preview_28: -3463195014335101512
+      BackGround2-removebg-preview_29: -8144054548256002231
+      BackGround2-removebg-preview_3: 3817613110640319991
+      BackGround2-removebg-preview_30: -6371010509172302478
+      BackGround2-removebg-preview_31: -8160265519753697422
+      BackGround2-removebg-preview_32: 3613379497063301473
+      BackGround2-removebg-preview_33: 66463752144225536
+      BackGround2-removebg-preview_34: 3470980539018118765
+      BackGround2-removebg-preview_35: 5646580882825150050
+      BackGround2-removebg-preview_36: 3939054629840880885
+      BackGround2-removebg-preview_37: -5185838448247368690
+      BackGround2-removebg-preview_38: -1654974540806116553
+      BackGround2-removebg-preview_39: 4357424945430709466
+      BackGround2-removebg-preview_4: 6741760112852022921
+      BackGround2-removebg-preview_40: -1318694504597443089
+      BackGround2-removebg-preview_41: -5169912949968989310
+      BackGround2-removebg-preview_42: 4606220959688547948
+      BackGround2-removebg-preview_43: -2072224499127224385
+      BackGround2-removebg-preview_44: 5177050484144723555
+      BackGround2-removebg-preview_45: -8503970938839684416
+      BackGround2-removebg-preview_46: 276624125635995856
+      BackGround2-removebg-preview_47: -7042362509176789994
+      BackGround2-removebg-preview_48: -6845859494846530851
+      BackGround2-removebg-preview_49: 3130772382992725827
+      BackGround2-removebg-preview_5: 6913176705253166000
+      BackGround2-removebg-preview_50: -2605153428697835302
+      BackGround2-removebg-preview_51: -8984391300641032174
+      BackGround2-removebg-preview_52: -4792047059033692473
+      BackGround2-removebg-preview_53: -8815458498264414815
+      BackGround2-removebg-preview_54: 2978272864926565065
+      BackGround2-removebg-preview_55: 5517545545263153916
+      BackGround2-removebg-preview_56: 7912417670844937331
+      BackGround2-removebg-preview_57: 1665928954575664144
+      BackGround2-removebg-preview_58: 2787585305144818292
+      BackGround2-removebg-preview_59: 6110629799371673555
+      BackGround2-removebg-preview_6: 3612288172017470496
+      BackGround2-removebg-preview_60: 4049963692321014975
+      BackGround2-removebg-preview_61: 6631245595899269135
+      BackGround2-removebg-preview_62: 612441474495656093
+      BackGround2-removebg-preview_63: -8022554683475285566
+      BackGround2-removebg-preview_64: -6986583513063143348
+      BackGround2-removebg-preview_65: 3403286254528705147
+      BackGround2-removebg-preview_66: -204733279612269657
+      BackGround2-removebg-preview_67: 2848297113120773349
+      BackGround2-removebg-preview_68: 517591722837328444
+      BackGround2-removebg-preview_69: 9126197692812485618
+      BackGround2-removebg-preview_7: 8396901147725189943
+      BackGround2-removebg-preview_70: -1903711943179106356
+      BackGround2-removebg-preview_71: 1158024337971871973
+      BackGround2-removebg-preview_72: -4664878372513621802
+      BackGround2-removebg-preview_73: 5112954728765434445
+      BackGround2-removebg-preview_74: 8889532692057057485
+      BackGround2-removebg-preview_75: -3460806395432760713
+      BackGround2-removebg-preview_76: -2582926636881820010
+      BackGround2-removebg-preview_77: 7103776590695366913
+      BackGround2-removebg-preview_78: 556569052462822977
+      BackGround2-removebg-preview_79: -4812310376928912242
+      BackGround2-removebg-preview_8: -2820562748890549367
+      BackGround2-removebg-preview_80: 8417937790709629488
+      BackGround2-removebg-preview_9: -8507803508319494446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

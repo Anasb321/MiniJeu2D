@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 1557380715480138563}
   - component: {fileID: 7217910676310170007}
   - component: {fileID: 7743244489335203616}
-  - component: {fileID: 6204015069840742048}
+  - component: {fileID: 7146071633920836714}
+  - component: {fileID: -1999269224735640159}
   m_Layer: 0
   m_Name: PurpleGem
   m_TagString: Untagged
@@ -80,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -7823569648825672956, guid: ff2b6b5603363ad46a074520175526c8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -138,7 +139,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.16, y: 1.98}
   m_EdgeRadius: 0
---- !u!114 &6204015069840742048
+--- !u!114 &7146071633920836714
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,3 +152,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collectible
   points: 100
+--- !u!114 &-1999269224735640159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8457471416451581849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a28b642adfd6454abf9412efd382f1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoveLeft
+  moveSpeedMultiplier: 0.3

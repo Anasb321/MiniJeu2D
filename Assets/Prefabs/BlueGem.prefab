@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 9102091674612408945}
   - component: {fileID: 4370971954672613635}
   - component: {fileID: 7949946335747315203}
-  - component: {fileID: 2850686229225121110}
+  - component: {fileID: 115897325154650671}
+  - component: {fileID: 7965181710022803405}
   m_Layer: 0
   m_Name: BlueGem
   m_TagString: Untagged
@@ -80,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 3738971955338363182, guid: 3aaf1b287922dd5419a7c95095800d85, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -138,7 +139,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.06, y: 1.83}
   m_EdgeRadius: 0
---- !u!114 &2850686229225121110
+--- !u!114 &115897325154650671
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,3 +152,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collectible
   points: 50
+--- !u!114 &7965181710022803405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7376057759940165851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a28b642adfd6454abf9412efd382f1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoveLeft
+  moveSpeedMultiplier: 0.3
